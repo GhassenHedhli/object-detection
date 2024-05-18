@@ -1,0 +1,6 @@
+gTTS==2.4.0
+numpy==1.23.5
+opencv_python==4.8.0.76
+tensorflow==2.13.0
+tensorflow_intel==2.13.0
+tflite_runtime==2.14.0
